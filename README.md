@@ -1,5 +1,5 @@
 live地址：
-<summary>截图>jie't>jie
+<summary>截图>
 
 ![截图1](/img/live1.png)
 
