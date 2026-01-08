@@ -36,6 +36,9 @@ https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 
 ![截图2](/img/live3.png)
 
+## 扫描进群
+![截图2](/img/qun.jpg)
+
 ## Star History
 [![GitHub stars](https://img.shields.io/github/stars/jn950/live)](https://github.com/jn950/live/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jn950/live)](https://github.com/jn950/live/network/members)
